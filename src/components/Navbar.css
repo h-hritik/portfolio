@@ -1,0 +1,43 @@
+/* Navbar.css */
+
+.container {
+    padding: 0;
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  
+  .nav-item .nav-link {
+    margin-right: 10px;
+    transition: color 0.3s;
+  }
+  
+  .nav-item .nav-link:hover {
+    color: #ff5722;
+  }
+  
+  .nav-item .nav-link.active {
+    color: #ff5722;
+    font-weight: bold;
+  }
+  
+  .navbar-toggler {
+    border: none;
+  }
+  
+  .navbar-toggler:focus {
+    outline: none;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+  }
+  

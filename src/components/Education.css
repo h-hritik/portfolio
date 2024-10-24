@@ -1,0 +1,39 @@
+/* Education.css */
+
+#education {
+    background-image: url('../images/cerbg.gif');
+    background-size: cover;
+    background-position: center;
+    padding: 60px 0;
+  }
+  
+  #education .container {
+    background-color: rgba(255, 255, 255, 0.8); /* White background with some opacity */
+    padding: 30px;
+    border-radius: 10px;
+  }
+  
+  #education h2 {
+    margin-bottom: 20px;
+    font-size: 2.5rem;
+    color: #343a40;
+  }
+  
+  #education .card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 10px;
+  }
+  
+  #education .card-body {
+    padding: 20px;
+  }
+  
+  #education .card-title {
+    color: #007bff;
+  }
+  
+  #education .card-text {
+    font-size: 1rem;
+    color: #6c757d;
+  }
+  
